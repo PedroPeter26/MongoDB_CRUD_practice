@@ -1,0 +1,23 @@
+[
+    {
+        "distancia": "14",
+        "destino": "Matamoros",
+        "precio": "200",
+        "Chofer": {
+            "nombre": "Wilvardo",
+            "a_paterno": "Colunga",
+            "a_materno": "Martinez",
+            "rfc": "WOYK550218HASPUF95",
+            "Taxi": {
+                "matricula": "FAA-220-V",
+                "color": "Rojo",
+                "marca": "Toyota",
+                "modelo": "2020",
+                "submarca": "Highlander",
+                "is_array": false
+            },
+            "is_array": false
+        },
+        "is_array": false
+    }
+]

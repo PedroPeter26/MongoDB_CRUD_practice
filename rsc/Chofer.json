@@ -1,0 +1,47 @@
+[
+    {
+        "nombre": "Juan",
+        "a_paterno": "Perez",
+        "a_materno": "Lucerna",
+        "rfc": "IFTV641203HC9",
+        "Taxi": {
+            "matricula": "FAB-739-T",
+            "color": "Amarillo",
+            "marca": "Ford",
+            "modelo": "2013",
+            "submarca": "Focus",
+            "is_array": false
+        },
+        "is_array": false
+    },
+    {
+        "nombre": "Juan",
+        "a_paterno": "Marino",
+        "a_materno": "Salas",
+        "rfc": "IRTB641203HC9",
+        "Taxi": {
+            "matricula": "FAB-639-J",
+            "color": "Amarillo",
+            "marca": "Ford",
+            "modelo": "2013",
+            "submarca": "Focus",
+            "is_array": false
+        },
+        "is_array": false
+    },
+    {
+        "nombre": "Luis",
+        "a_paterno": "Perez",
+        "a_materno": "Lucero",
+        "rfc": "SATV641203HC9",
+        "Taxi": {
+            "matricula": "FAA-739-E",
+            "color": "Amarillo",
+            "marca": "Ford",
+            "modelo": "2013",
+            "submarca": "Focus",
+            "is_array": false
+        },
+        "is_array": false
+    }
+]

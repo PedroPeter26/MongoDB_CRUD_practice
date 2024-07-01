@@ -1,0 +1,21 @@
+{
+    "distancia": 35,
+    "destino": "Vegas de Marrufo",
+    "precio": 320,
+    "Chofer": {
+        "nombre": "Juan",
+        "a_paterno": "Rulfo",
+        "a_materno": "Matrinez",
+        "rfc": "VECJ880326",
+        "Taxi": {
+            "matricula": "FAA-012-A",
+            "color": "Amarillo",
+            "marca": "Ram",
+            "modelo": "Ram 1500",
+            "submarca": "TRX",
+            "is_array": false
+        },
+        "is_array": false
+    },
+    "is_array": false
+}

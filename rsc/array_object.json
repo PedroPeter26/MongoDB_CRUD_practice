@@ -1,0 +1,65 @@
+[
+    {
+        "distancia": 50,
+        "destino": "Conney Islan",
+        "precio": 350,
+        "Chofer": {
+            "nombre": "Juan",
+            "a_paterno": "Rulfo",
+            "a_materno": "Matrinez",
+            "rfc": "VECJ880326",
+            "Taxi": {
+                "matricula": "FAA-012-A",
+                "color": "Amarillo",
+                "marca": "Ram",
+                "modelo": "Ram 1500",
+                "submarca": "TRX",
+                "is_array": false
+            },
+            "is_array": false
+        },
+        "is_array": false
+    },
+    {
+        "distancia": 20,
+        "destino": "Edo. Mex",
+        "precio": 250,
+        "Chofer": {
+            "nombre": "Akira",
+            "a_paterno": "Toriyama",
+            "a_materno": "Mifune",
+            "rfc": "BNPA510108XW3",
+            "Taxi": {
+                "matricula": "RKA-467-A",
+                "color": "Azul",
+                "marca": "Chevrolet",
+                "modelo": "Spark",
+                "submarca": "LS",
+                "is_array": false
+            },
+            "is_array": false
+        },
+        "is_array": false
+    },
+    {
+        "distancia": 62,
+        "destino": "Guadalupe, NL",
+        "precio": 400,
+        "Chofer": {
+            "nombre": "Carlos",
+            "a_paterno": "Fuentes",
+            "a_materno": "Macias",
+            "rfc": "RETD560101OU0",
+            "Taxi": {
+                "matricula": "RKA-200-A",
+                "color": "Blanco",
+                "marca": "Nissan",
+                "modelo": "Versa",
+                "submarca": "Advance",
+                "is_array": false
+            },
+            "is_array": false
+        },
+        "is_array": false
+    }
+]

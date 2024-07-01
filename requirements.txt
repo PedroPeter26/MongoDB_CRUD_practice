@@ -1,0 +1,8 @@
+# Required dependencies
+#Use the next command to install each dependency:
+#................................................
+#        pip install -r requirements.txt
+#................................................
+#Good luck! :)
+pymongo==4.8.0
+python-dotenv==1.0.1
